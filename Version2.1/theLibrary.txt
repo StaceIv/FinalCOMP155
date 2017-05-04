@@ -1,0 +1,20 @@
+Title: Harry Potter, Author: Jo Rowling, Availability: true, Type: BOOK
+
+Title: The Bell Jar, Author: Sylvia Plath, Availability: true, Type: BOOK
+
+Title: Runner's World, Published: 1999, Availability: true, Type: MAGAZINE
+
+Title: National Geographic, Published: 1840, Availability: true, Type: MAGAZINE
+
+Title: Dime Store Magic, Author: Kelley Armstrong, Availability: true, Type: BOOK
+
+Title: Astronomy, Published: 1973, Availability: true, Type: MAGAZINE
+
+Title: Looking for Alaska, Author: John Green, Availability: true, Type: BOOK
+
+Title: Physics World, Published: 2001, Availability: true, Type: MAGAZINE
+
+Title: Cosmopolitan, Published: 2005, Availability: true, Type: MAGAZINE
+
+Title: The Salmon of Doubt, Author: Douglas Adams, Availability: true, Type: BOOK
+
